@@ -1,12 +1,12 @@
 # Site settings
 name: Obai Anaya
-title: Obai Anaya | Front End Software Engineer
+title: Obai Anaya 
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
 url: https://bchiang7.github.io/
 baseurl: ''
 email: brittany.chiang@gmail.com
 cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
+logo: https://bchiang7.github.io/img/emojis/technologist2.png
 resume: https://bchiang7.github.io/resume.pdf
 social:
   - title: email
