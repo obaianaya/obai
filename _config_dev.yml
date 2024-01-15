@@ -1,26 +1,22 @@
 # Site settings
 name: Obai Anaya
 title: Obai Anaya
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+description: Coding By Day, Filming By Dusk
+url: https://obaianaya.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist2.png
-resume: https://bchiang7.github.io/resume.pdf
+email: obai.anayeh@gmail.com
+cover: https://obaianaya.github.io/img/og.png
+logo: https://obaianaya.github.io/img/emojis/technologist.png
+resume: https://obaianaya.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
-  - title: twitter
-    url: https://twitter.com/bchiang7
+    url: mailto:obai.anayeh@gmail.com
   - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://instagram.com/obai.anaya
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/obaianaya
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/obaianaya
 
 # Build settings
 markdown: kramdown

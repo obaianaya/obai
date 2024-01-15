@@ -1,12 +1,12 @@
 {
-  "name": "brittanychiang.com",
+  "name": "obaianaya.com",
   "version": "0.0.0",
-  "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
+  "description": "Coding By Day, Filming By Dusk",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bchiang7/bchiang7.github.io.git"
+    "url": "git+https://github.com/obaianaya/obaianaya.github.io.git"
   },
-  "homepage": "https://github.com/bchiang7/bchiang7.github.io",
+  "homepage": "https://github.com/obaianaya/obaianaya.github.io.git",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve --watch",
@@ -26,7 +26,7 @@
     "gulp-uglify": "3.0.2"
   },
   "bugs": {
-    "url": "https://github.com/bchiang7/bchiang7.github.io/issues"
+    "url": "https://github.com/obaianaya/obaianaya.github.io/issues"
   },
   "dependencies": {
     "gulp": "^4.0.2",
