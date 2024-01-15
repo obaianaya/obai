@@ -1,0 +1,21 @@
+<section class="section grades">
+  <div class="section__title">Grades</div>
+  <div class="section__content">
+    <div class="subjects">
+      {% for subject in site.data.grades %}
+      <div class="subject">
+        <div class="grade-subject">
+          <div class="subject__name">
+            <a href="{{subject.url}}" target="_blank">{{subject.name}}</a>
+          </div>
+          <div class="subject__grade">{{subject.grade10}}</div>
+          <div class="subject__grade">{{subject.grade11}}</div>
+        </div>
+        <div class="subject__level">{{subject.level}}</div>
+      </div>
+      {% endfor %}
+    </div>
+
+   <!-- <a href="{{site.resume}}" target="_blank" class="arrow-link">View My Resume</a> -->
+  </div>
+</section>

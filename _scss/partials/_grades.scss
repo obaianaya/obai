@@ -1,10 +1,10 @@
-.experience {
-  .jobs {
+.grades {
+  .subjects {
     margin-bottom: 100px;
   }
-  .job {
+  .subject {
     margin-bottom: 25px;
-    .time-place {
+    .grade-subject {
       display: flex;
       justify-content: space-between;
       @include mobile {
