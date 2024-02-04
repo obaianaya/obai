@@ -1,53 +1,44 @@
 - name: Mathematics
-  url: https://www.obaianaya.com/
   grade10: 100% - 98.75% - N/A - 98.5%
   grade11: 100% - 87.5% - 100% - 89%
   level: Advanced
 
 - name: Biology
-  url: https://www.obaianaya.com/
   grade10: 100%	- 98.75% - N/A - 96.50%
   grade11: 100% - 100% - 100% - 99%
   level: Advanced
 
 - name: Chemistry
-  url: https://www.obaianaya.com/
   grade10: 100% - 100% - N/A - 94.50%
   grade11: 100% - 83.75% - 100% - 92%
   level: Advanced
 
 - name: Physics
-  url: https://www.obaianaya.com/
   grade10: 100% - 98.75% - N/A - 95.50%
   grade11: 90% - 92.50% - 96.67% - 96.50%
   level: Advanced
 
 - name: Computing & IT
-  url: https://www.obaianaya.com/
   grade10: 100% - 98.75% - N/A - 97.50%
   grade11: 100% - 100% - 100% - 99%
   level: Standard
 
 - name: English
-  url: https://www.obaianaya.com/
   grade10: 96.60% - 98.75% - N/A - 98%
   grade11: 100% - 100% - 100% - 98%
   level: Standard
 
 - name: Arabic
-  url: https://www.obaianaya.com/
   grade10: 86.60% - 90% - N/A - 91%
   grade11: 90% - 91.25% - 100% - 91.50%
   level: Standard
 
 - name: Islamic Education
-  url: https://www.obaianaya.com/
   grade10: 100% - 93.75% - N/A - 95.50%
   grade11: 100% - 92.50% - 100% - 96.50%
   level: Standard
 
 - name: Social Studies
-  url: https://www.obaianaya.com/
   grade10: 96.60% - 96.25% - N/A - 94.50%
   grade11: N/A
   level: Standard

@@ -1,0 +1,31 @@
+<section class="section academics">
+  <div class="section__title">Academics</div>
+  <div class="section__content">
+    <div class="subjects">
+      {% for subject in site.data.grades %}
+      <div class="subject">
+        <div class="time-place">
+          <div class="subject__name">
+            <strong>{{subject.name}}</strong>
+          </div>
+          <div class="subject__level">{{subject.level}}</div>
+        </div>
+        <div class="subject__grade10">Grade 10: {{subject.grade10}}</div>
+        <div class="subject__grade11">Grade 11: {{subject.grade11}}</div>
+        
+      </div>
+      {% endfor %}
+    </div>
+    <!-- <a href="{{site.grades.Grade_10_1stSemester_MidtermReport.pdf}}" target="_blank" class="arrow-link">View My grades.Grade_10_1stSemester_MidtermReport.pdf</a> -->
+
+    <br><a href="{{site.baseurl}}/docs/grades/Grade_10_1stSemester_MidtermReport.pdf" target="_blank" class="arrow-link">Grade 10 - 1/4 - First Semester Midterm</a>
+    <br><a href="{{site.baseurl}}/docs/grades/Grade_10_1stSemester_FinalReport.pdf" target="_blank" class="arrow-link">Grade 10 - 2/4 - First Semester Final</a>
+    <br><a href="{{site.baseurl}}/docs/grades/Grade_10_FinalReport.pdf" target="_blank" class="arrow-link">Grade 10 - 4/4 - Second Semester Final</a>
+
+    <br><br><a href="{{site.baseurl}}/docs/grades/Grade_11_1stSemester_MidtermReport.pdf" target="_blank" class="arrow-link">Grade 11 - 1/4 - First Semester Midterm</a>
+    <br><a href="{{site.baseurl}}/docs/grades/Grade_11_1stSemester_FinalReport.pdf" target="_blank" class="arrow-link">Grade 11 - 2/4 - First Semester Final</a>
+    <br><a href="{{site.baseurl}}/docs/grades/Grade_11_2ndSemester_MidtermReport.pdf" target="_blank" class="arrow-link">Grade 11 - 3/4 - Second Semester Midterm</a>
+    <br><a href="{{site.baseurl}}/docs/grades/Grade_11_FinalReport.pdf" target="_blank" class="arrow-link">Grade 11 - 4/4 - Second Semester Final</a>
+
+  </div>
+</section>
